@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481605640744",
+    "project_id": "money-transfer-b561b",
+    "storage_bucket": "money-transfer-b561b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481605640744:android:7c9d3cd9545c862a3d4b1d",
+        "android_client_info": {
+          "package_name": "com.example.moneytransfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481605640744-16tscprdfn7ggiqemcc49257c2v7fcl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfNEPFlaDTePBaGoirF0I1LHtNIaBf9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481605640744-16tscprdfn7ggiqemcc49257c2v7fcl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
